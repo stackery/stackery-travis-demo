@@ -1,0 +1,8 @@
+language: bash
+branches:
+  only:
+    - stg
+    - master
+deploy:
+  provider: script
+  script: bash scripts/deploy.sh
