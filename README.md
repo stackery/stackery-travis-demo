@@ -1,6 +1,6 @@
 # Stackery + Travis Demo
 
-This repository stored the source code required to follow along with the <a href="https://docs.stackery.io/docs/using-stackery/cicd-and-stackery/" target="_blank" alt="stackery-travis-tutorial">CI/CD with Stackery & Travis CI tutorial</a>.
+This repository stores the source code featured in the <a href="https://docs.stackery.io/docs/using-stackery/cicd-and-stackery/" target="_blank" alt="stackery-travis-tutorial">CI/CD with Stackery & Travis CI tutorial</a>.
 
 ## Key Files
 * `src/.travis.yml`: Travis CI configuration YAML for deploying our custom Stackery deploy script
